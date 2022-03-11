@@ -1,4 +1,6 @@
-
+document.getElementById("toBlue").onclick = function () {
+    document.getElementById("output_text").style.color = 'blue';
+}
 
 
 
